@@ -1,0 +1,31 @@
+{
+    "recommendations": [
+        // Git
+        "eamodio.gitlens",
+
+        // Python Extensions
+        "ms-python.python", 
+        "ms-python.debugpy",
+        "ms-python.vscode-pylance",
+        "charliermarsh.ruff",
+        "batisteo.vscode-django",
+        "visualstudioexptteam.vscodeintellicode",
+
+        // Code Running Extensions
+        "formulahendry.code-runner",
+
+        // Remote Container Extensions
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        
+        // SQLite Support
+        "alexcvzz.vscode-sqlite",
+
+        // Vim Extension
+        "vscodevim.vim",
+
+        // Theme Extensions
+        "github.github-vscode-theme",
+        "pkief.material-icon-theme"
+    ]
+}
