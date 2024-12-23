@@ -26,6 +26,9 @@
     "editor.quickSuggestions": {
         "strings": "inline"
     },
+    "vim.handleKeys": {
+        "<C-p>": false
+    },
     "code-runner.clearPreviousOutput": true, 
     "code-runner.showExecutionMessage": false, 
     "code-runner.executorMap": {
